@@ -1,5 +1,5 @@
-<div align="center" style="display:flex">
-  <a href="https://github.com/wagmerschaider">
+<div align="center" >
+  <a href="https://github.com/wagmerschaider" style="display:flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerschaider&layout=compact&langs_count=7&theme=gotham"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerschaider&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
